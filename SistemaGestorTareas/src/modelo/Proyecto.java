@@ -5,10 +5,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Gestiona la asignacion de tareas a los miembros del equipo
- * y calcula el porcentaje de avance general.
- */
 public class Proyecto {
 
     private String nombre;
