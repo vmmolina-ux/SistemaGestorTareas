@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * Interfaz grafica sencilla para crear tareas, asignarlas,
  * agregar subtareas y consultar el avance del proyecto.
- * No contiene logica de negocio: solo llama a los metodos del modelo.
  */
 public class VentanaPrincipal extends JFrame {
 
