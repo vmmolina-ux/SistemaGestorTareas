@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Tarea que se compone de una lista de subtareas.
- */
+ * 
 public class TareaCompleja extends Tarea {
 
     private List<Tarea> subtareas;
