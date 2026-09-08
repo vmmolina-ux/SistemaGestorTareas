@@ -1,8 +1,5 @@
 package modelo;
 
-/**
- * Clase base que representa una actividad dentro de un proyecto.
- */
 public abstract class Tarea {
 
     private String titulo;
