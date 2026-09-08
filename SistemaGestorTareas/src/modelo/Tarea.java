@@ -1,5 +1,5 @@
 package modelo;
-//Clase Abstracta
+
 public abstract class Tarea {
 
     private String titulo;
